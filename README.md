@@ -1,21 +1,21 @@
-# Witch Love ~ Umineko Türkçe Çeviri Projesi
+# UminekoMTL-tr ~ Umineko Türkçe MTL Çeviri Projesi
 
 [![Build Status](../../workflows/Build/badge.svg)](../../actions)
 
-Umineko Türkçe çeviri projemiz açık kaynaktır ve isteyen herkes istediği zaman katkıda bulunabilir! Acele çeviri yapmak yerine kaliteli çeviri yapmak önceliğimiz. Bu nedenle süre sınırı gibi kısıtlamalarımız da bulunmamaktadır.
+Bu proje, orijinal [Witch Love ~ Umineko Türkçe Çeviri Projesi](https://github.com/witch-love/umineko-scripting-tr) projesinin bir MTL (makine çevirisi) çatalıdır. Çeviriler bağlamlı yapay zeka desteğiyle üretilmekte ve Remilya tarafından incelenmektedir.
 
-Katkıda bulunmak istiyorsanız lütfen [sitemizi](https://witch-love.com/umineko/contributing/info) inceleyin!
+> **Not:** Episode 1 ve Episode 2, orijinal Witch Love ekibi tarafından elle çevrilmiştir ve o emek ile özveri büyük saygıyla korunmaktadır. Episode 3'ten itibaren çeviriler MTL + bağlamlı AI yöntemiyle Remilya tarafından sürdürülmektedir.
 
 ## Kurulum
 Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşabilirsiniz.
 
 ## İletişim
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @remilya
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
 
 ## İlerleme
 * <details>
-  <summary>Episode 1 ✅</summary>
+  <summary>Episode 1 ✅ — 🖊️ Elle Çevrildi (Witch Love)</summary>
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅<sup>1</sup>
@@ -49,7 +49,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
 </details>
 
 * <details>
-  <summary>Episode 2 ✅</summary>
+  <summary>Episode 2 ✅ — 🖊️ Elle Çevrildi (Witch Love)</summary>
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅<sup>1</sup>
@@ -312,7 +312,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
    * Opening Lyrics ✅
       * [Opening 1: Igreja of Echoing Vows](../../../umineko-scripting-tr-files/tree/master/files/video/sub/tr.ass) ✅
       * [Chiru Opening 1: The Witch of Occultics](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op56_tr.ass) ✅
-      * [Chiru Opening 2: Inanna’s Dream](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op4_tr.ass) ✅
+      * [Chiru Opening 2: Inanna's Dream](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op4_tr.ass) ✅
       * [Chiru Opening 3: The Pithos in the Fog](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op78_tr.ass) ✅
    * Omake ❌
       * [Omake 1](../../tree/master/story/omake/tr/umio1.txt) ✅
@@ -335,4 +335,6 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
 - Umineko Project
 - Knox Translations
 - SNS Team
+- Witch Love Ekibi — Episode 1 & 2 el çevirisi için 💙
 - All third-party contributors and authors
+- Remilya — MTL & AI destekli çeviri (Episode 3~)
